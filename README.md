@@ -7,8 +7,9 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 - Leading by setting the context;
 - iteration & experimentation;
 - ownership;
-- assess the outcome.
-- Conway’s Law
+- assess the outcome;
+- Conway’s Law;
+- trust.
 
 ## Challenges - WIP
 
