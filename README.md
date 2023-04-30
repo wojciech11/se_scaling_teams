@@ -8,6 +8,7 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 - iteration & experimentation;
 - ownership;
 - assess the outcome.
+- Conway’s Law
 
 ## Challenges - WIP
 
@@ -38,4 +39,6 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 
 ## Additonal materials
 
-- [Scaling Up Companies](https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526) ([summary](http://scaling4growth.com/wp-content/uploads/2015/10/Scaling-Up.pdf))
+- [Scaling Up Companies](https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526) ([summary](http://scaling4growth.com/wp-content/uploads/2015/10/Scaling-Up.pdf));
+- [The Five Dysfunctions of a Team](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/);
+- Team topologies book
