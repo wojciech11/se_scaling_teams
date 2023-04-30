@@ -39,6 +39,8 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 Shifting, changing the team members:
 
 - https://www.youtube.com/watch?v=pDkM1-QeW4E
+- one by one
+- merge / split-out
 
 ## Kanban + Coordination across the teams
 
