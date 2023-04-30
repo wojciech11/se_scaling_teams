@@ -1,4 +1,6 @@
-# Scaling teams
+# Design and Scaling teams
+
+## Design Principles
 
 - [Product vs feature teams](https://www.svpg.com/product-vs-feature-teams/);
 - Leading by setting the context.
