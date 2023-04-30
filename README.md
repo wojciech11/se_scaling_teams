@@ -47,9 +47,24 @@ Shifting, changing the team members:
 
 - flight levels
 
+## Metrics
+
+- DORA
+- SXXXXX
+- https://blog.crisp.se/2021/01/26/christopheachouiantz/team-success-metrics
+
 ## Additonal materials
 
 - [Scaling Up Companies](https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526) ([summary](http://scaling4growth.com/wp-content/uploads/2015/10/Scaling-Up.pdf));
 - [The Five Dysfunctions of a Team](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/);
 - Team topologies book;
 - [Stephan Bungay on strategy execution in uncertain environments and the gaps of OKR's](https://www.youtube.com/watch?v=3YkZSYSQYis).
+
+
+### Misc
+
+- https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later
+- https://medium.com/@johnpcutler/beat-the-feature-factory-run-pre-cap-design-studios-725d1c83ecd7
+- https://amplitude.com/blog/the-product-outcomes-formula
+
+
