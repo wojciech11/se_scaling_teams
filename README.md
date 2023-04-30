@@ -33,6 +33,12 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 
   - https://github.com/TeamTopologies/Independent-Service-Heuristics
 
+## Re-teaming for fast growth
+
+Shifting, changing the team members:
+
+- https://www.youtube.com/watch?v=pDkM1-QeW4E
+
 ## Kanban + Coordination across the teams
 
 - flight levels
