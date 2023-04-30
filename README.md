@@ -2,7 +2,10 @@
 
 ## Design Principles
 
-- Leading by setting the context.
+- Leading by setting the context;
+- iteration & experimentation;
+- ownership;
+- assess the outcome.
 
 ## Product teams
 
