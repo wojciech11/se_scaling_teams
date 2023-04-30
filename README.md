@@ -39,6 +39,7 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 Shifting, changing the team members:
 
 - https://www.youtube.com/watch?v=pDkM1-QeW4E
+- https://www.youtube.com/watch?v=O8Iv308Obes
 - one by one
 - merge / split-out
 
@@ -50,4 +51,5 @@ Shifting, changing the team members:
 
 - [Scaling Up Companies](https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526) ([summary](http://scaling4growth.com/wp-content/uploads/2015/10/Scaling-Up.pdf));
 - [The Five Dysfunctions of a Team](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/);
-- Team topologies book
+- Team topologies book;
+- [Stephan Bungay on strategy execution in uncertain environments and the gaps of OKR's](https://www.youtube.com/watch?v=3YkZSYSQYis).
