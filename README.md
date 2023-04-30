@@ -1,4 +1,6 @@
-# Design and Scaling teams
+# Design and Scaling teams - WIP
+
+Notes to drive the analysis of the approaches in scaling teams and breaking into smaller ones.
 
 ## Design Principles
 
@@ -6,6 +8,11 @@
 - iteration & experimentation;
 - ownership;
 - assess the outcome.
+
+## Challenges - WIP
+
+- cut the communication
+- locallity
 
 ## Product teams
 
