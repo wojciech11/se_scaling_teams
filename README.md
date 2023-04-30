@@ -28,7 +28,9 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 ## Team topologies
 
 - https://teamtopologies.com/key-concepts
-- how to identify the boundaries of teams
+- how to identify the boundaries of teams:
+
+  - https://github.com/TeamTopologies/Independent-Service-Heuristics
 
 ## Kanban + Coordination across the teams
 
