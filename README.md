@@ -45,13 +45,19 @@ Shifting, changing the team members:
 
 ## Kanban + Coordination across the teams
 
-- flight levels
+- flight levels - https://www.youtube.com/watch?v=yBk0mYKL8f8 (a lot of similaries to the concepts presented by crips.se)
 
 ## Metrics
 
 - DORA
 - SXXXXX
 - https://blog.crisp.se/2021/01/26/christopheachouiantz/team-success-metrics
+- https://www.dropbox.com/s/zaf8npdremfifbe/stories%20on%20alignment%20-%20mskarin.pdf?dl=0
+- https://blog.crisp.se/2016/06/08/henrikkniberg/spotify-rhythm
+
+## Team and Individuals
+
+- https://www.youtube.com/watch?v=ddOGmao_cnA&t=3s
 
 ## Additonal materials
 
@@ -66,5 +72,4 @@ Shifting, changing the team members:
 - https://amplitude.com/blog/12-signs-youre-working-in-a-feature-factory-3-years-later
 - https://medium.com/@johnpcutler/beat-the-feature-factory-run-pre-cap-design-studios-725d1c83ecd7
 - https://amplitude.com/blog/the-product-outcomes-formula
-
-
+- https://cutle.fish/blog/stop-playing-tetris-with-teams-sprints-projects-and-individuals
