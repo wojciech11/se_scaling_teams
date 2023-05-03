@@ -9,6 +9,7 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 - ownership;
 - assess the outcome;
 - Conway’s Law;
+- autonomy, purpose, and mastery;
 - trust
 
 Covered by Martin Eriksson in his talk on Building Awesome Product Teams - https://vimeo.com/240129668.
