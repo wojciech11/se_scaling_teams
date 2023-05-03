@@ -9,14 +9,23 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 - ownership;
 - assess the outcome;
 - Conway’s Law;
-- trust.
+- trust
+
+Covered by Martin Eriksson in his talk on Building Awesome Product Teams - https://vimeo.com/240129668.
+
+## Not covered here
+
+- **hiring**
+- **onboarding** - atmost important
+
+Maybe later.
 
 ## Challenges - WIP
 
 - cut the communication
 - locallity
 
-## Product teams
+## Product teams not feature factories
 
 - measured by outcome;
 - [Product vs feature teams](https://www.svpg.com/product-vs-feature-teams/);
@@ -54,6 +63,7 @@ Shifting, changing the team members:
 - https://blog.crisp.se/2021/01/26/christopheachouiantz/team-success-metrics
 - https://www.dropbox.com/s/zaf8npdremfifbe/stories%20on%20alignment%20-%20mskarin.pdf?dl=0
 - https://blog.crisp.se/2016/06/08/henrikkniberg/spotify-rhythm
+- https://blog.crisp.se/2020/05/25/mattiasskarin/comparison-of-three-strategy-alignment-frameworks
 
 ## Team and Individuals
 
@@ -64,7 +74,7 @@ Shifting, changing the team members:
 - [Scaling Up Companies](https://www.amazon.com/Scaling-Up-Companies-Rockefeller-Habits/dp/0986019526) ([summary](http://scaling4growth.com/wp-content/uploads/2015/10/Scaling-Up.pdf));
 - [The Five Dysfunctions of a Team](https://www.tablegroup.com/topics-and-resources/teamwork-5-dysfunctions/);
 - Team topologies book;
-- [Stephan Bungay on strategy execution in uncertain environments and the gaps of OKR's](https://www.youtube.com/watch?v=3YkZSYSQYis).
+- [Stephan Bungay on strategy execution in uncertain environments and the gaps of OKR's](https://www.youtube.com/watch?v=3YkZSYSQYis) ([book](https://www.amazon.com/Art-Action-Leaders-between-Actions-ebook/dp/B01HPVHLHG/ref=tmm_kin_swatch_0)).
 
 
 ### Misc
