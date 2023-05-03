@@ -12,7 +12,7 @@ Notes to drive the analysis of the approaches in scaling teams and breaking into
 - autonomy, purpose, and mastery;
 - trust
 
-Covered by Martin Eriksson in his talk on Building Awesome Product Teams - https://vimeo.com/240129668.
+Martin Eriksson in his talk on [Building Awesome Product Teams](https://vimeo.com/240129668) covers the basics. Check also the book 5 dysfunctions of the team ([a good summary](https://www.runn.io/blog/5-dysfunctions-of-a-team-summary)).
 
 ## Not covered here
 
