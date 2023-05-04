@@ -32,6 +32,8 @@ Maybe later.
 - [Product vs feature teams](https://www.svpg.com/product-vs-feature-teams/);
 - [Product Team FAQ](https://www.svpg.com/product-team-faq/).
 
+Types of teams - https://kennethlange.com/team-patterns-how-to-structure-an-engineering-team/.
+
 ## Squads Spotify Model
 
 - https://blog.crisp.se/2012/11/14/henrikkniberg/scaling-agile-at-spotify
